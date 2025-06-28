@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Visiting Cards",
+        "description": "First impressions matter—make yours unforgettable with our custom visiting cards.\r\n\r\n",
+        "imageUrl": "https://storage.googleapis.com/printvc/images/1_1745991440914_1745991440914",
+        "isAvailable": true,
+        "parentCategoryId": null,
+        "createdAt": "2025-04-30T05:37:22.603Z",
+        "updatedAt": "2025-04-30T06:14:46.091Z"
+    },
+    {
+        "id": 2,
+        "name": "Tags",
+        "description": "Cards That Speak Before You Do.",
+        "imageUrl": "https://storage.googleapis.com/printvc/images/1_1745991953613_1745991953613",
+        "isAvailable": true,
+        "parentCategoryId": null,
+        "createdAt": "2025-04-30T05:45:56.247Z",
+        "updatedAt": "2025-04-30T06:14:52.001Z"
+    },
+    {
+        "id": 3,
+        "name": "Pamphlet / Posters",
+        "description": "Need to spread the word fast? Our professionally printed pamphlets and posters help you promote events, offers, or your business with style and clarity. Just choose your size, share your design—or let us help you with one—and we’ll print it with top quality.",
+        "imageUrl": "https://storage.googleapis.com/printvc/images/1_1745992086192_1745992086192",
+        "isAvailable": true,
+        "parentCategoryId": null,
+        "createdAt": "2025-04-30T05:48:06.770Z",
+        "updatedAt": "2025-04-30T06:14:57.795Z"
+    },
+    {
+        "id": 4,
+        "name": "Files",
+        "description": "Give your paperwork a professional touch! We print high-quality files with your logo, design, or message—great for business meetings, client presentations, or keeping your brand on every desk.",
+        "imageUrl": "https://storage.googleapis.com/printvc/images/1_1745992262870_1745992262870",
+        "isAvailable": true,
+        "parentCategoryId": null,
+        "createdAt": "2025-04-30T05:51:03.600Z",
+        "updatedAt": "2025-04-30T06:15:06.939Z"
+    },
+    {
+        "id": 5,
+        "name": "Letter Head",
+        "description": "Your letterhead is more than just paper—it’s your brand’s first impression. We print clean, high-quality letterheads that help your business look polished and professional.",
+        "imageUrl": "https://storage.googleapis.com/printvc/images/1_1745992341671_1745992341671",
+        "isAvailable": true,
+        "parentCategoryId": null,
+        "createdAt": "2025-04-30T05:52:22.170Z",
+        "updatedAt": "2025-04-30T06:15:12.943Z"
+    },
+    {
+        "id": 6,
+        "name": "Envelopes",
+        "description": "Your envelope is the first thing people see—make it count! We print custom envelopes that reflect your brand, with sharp designs and clean finishes that stand out in any stack of mail.",
+        "imageUrl": "https://storage.googleapis.com/printvc/images/1_1745992443384_1745992443384",
+        "isAvailable": true,
+        "parentCategoryId": null,
+        "createdAt": "2025-04-30T05:54:04.040Z",
+        "updatedAt": "2025-04-30T06:15:39.261Z"
+    },
+    {
+        "id": 7,
+        "name": "Atm Pouch",
+        "description": "Need secure and smart packaging for cash or documents? Our ATM pouches are made from high-quality, durable material and can be customized with your brand, logo, or design—perfect for banks, cash handling, and safe transportation.",
+        "imageUrl": "https://storage.googleapis.com/printvc/images/1_1745992567258_1745992567258",
+        "isAvailable": true,
+        "parentCategoryId": null,
+        "createdAt": "2025-04-30T05:56:07.973Z",
+        "updatedAt": "2025-04-30T06:15:45.212Z"
+    },
+    {
+        "id": 8,
+        "name": "Bill Book",
+        "description": "Keep your business organized and professional with our custom-printed bill books. Whether it’s for invoices, receipts, or delivery notes—we print clean, carbonless books that reflect your brand.",
+        "imageUrl": "https://storage.googleapis.com/printvc/images/1_1745992948321_1745992948321",
+        "isAvailable": true,
+        "parentCategoryId": null,
+        "createdAt": "2025-04-30T06:02:29.026Z",
+        "updatedAt": "2025-04-30T06:15:51.476Z"
+    },
+    {
+        "id": 9,
+        "name": "Stickers & Labels",
+        "description": "From jars to boxes, laptops to packaging—we print stickers and labels that help your brand stand out. Choose your size, shape, and finish, and we’ll take care of the rest.",
+        "imageUrl": "https://storage.googleapis.com/printvc/images/1_1745993123857_1745993123857",
+        "isAvailable": true,
+        "parentCategoryId": null,
+        "createdAt": "2025-04-30T06:05:24.629Z",
+        "updatedAt": "2025-04-30T06:15:57.098Z"
+    },
+    {
+        "id": 10,
+        "name": "Doctor Files",
+        "description": "Keep your patient records organized with custom doctor files. We print high-quality, durable files that help you store medical documents safely and professionally. Customize with your clinic’s logo and colors for a personal touch.",
+        "imageUrl": "https://storage.googleapis.com/printvc/images/1_1745993674285_1745993674285",
+        "isAvailable": true,
+        "parentCategoryId": null,
+        "createdAt": "2025-04-30T06:14:35.181Z",
+        "updatedAt": "2025-04-30T06:17:07.557Z"
+    },
+    {
+        "id": 11,
+        "name": "Shooting Target",
+        "description": "Perfect your aim with our custom-designed shooting targets. Whether you're practicing at the range or competing, our durable targets are built for precision and visibility. Available in a variety of styles and sizes.",
+        "imageUrl": "https://storage.googleapis.com/printvc/images/1_1745993818432_1745993818432",
+        "isAvailable": true,
+        "parentCategoryId": null,
+        "createdAt": "2025-04-30T06:16:58.858Z",
+        "updatedAt": "2025-04-30T06:17:15.205Z"
+    }
+]
